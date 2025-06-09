@@ -1,0 +1,8 @@
+node_modules
+.expo
+.git
+.gitignore
+smoked-pi-app-v1.0.zip
+dist
+web-build
+
